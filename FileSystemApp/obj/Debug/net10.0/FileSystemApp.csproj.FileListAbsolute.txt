@@ -1,0 +1,15 @@
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\bin\Debug\net10.0\FileSystemApp.exe
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\bin\Debug\net10.0\FileSystemApp.deps.json
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\bin\Debug\net10.0\FileSystemApp.runtimeconfig.json
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\bin\Debug\net10.0\FileSystemApp.dll
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\bin\Debug\net10.0\FileSystemApp.pdb
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\obj\Debug\net10.0\FileSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\obj\Debug\net10.0\FileSystemApp.AssemblyInfoInputs.cache
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\obj\Debug\net10.0\FileSystemApp.AssemblyInfo.cs
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\obj\Debug\net10.0\FileSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\obj\Debug\net10.0\FileSystemApp.sourcelink.json
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\obj\Debug\net10.0\FileSystemApp.dll
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\obj\Debug\net10.0\refint\FileSystemApp.dll
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\obj\Debug\net10.0\FileSystemApp.pdb
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\obj\Debug\net10.0\FileSystemApp.genruntimeconfig.cache
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\FileSystemApp\obj\Debug\net10.0\ref\FileSystemApp.dll

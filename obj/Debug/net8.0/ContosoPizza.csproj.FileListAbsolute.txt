@@ -1,0 +1,9 @@
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\obj\Debug\net8.0\ContosoPizza.csproj.AssemblyReference.cache
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\obj\Debug\net8.0\ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\obj\Debug\net8.0\ContosoPizza.AssemblyInfoInputs.cache
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\obj\Debug\net8.0\ContosoPizza.AssemblyInfo.cs
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\obj\Debug\net8.0\ContosoPizza.csproj.CoreCompileInputs.cache
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\obj\Debug\net8.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\obj\Debug\net8.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akena\OneDrive\Desktop\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
